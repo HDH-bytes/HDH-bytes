@@ -1,4 +1,4 @@
-# Hi, I'm Hammad H.
+# 👋 Hey, I'm Hammad H.
 
 I'm a Software Engineering student at Western University with a strong interest in AI, software, and hardware systems.
 
