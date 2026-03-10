@@ -1,24 +1,21 @@
-# Hi, I'm Hammad Hassan
+# Hi, I'm Hammad H.
 
-I'm a Bachelor of Engineering Science student at Western University who enjoys building across software, AI, and hardware.
+I'm a Software Engineering student at Western University with a strong interest in AI, software, and hardware systems.
 
-Right now, I’m especially interested in:
-- AI and intelligent systems
-- full-stack and product-focused software
-- digital design, computer architecture, and low-level systems
-
-A few things I’m proud of:
+Some highlights of my work:
+- **ELLOSTRÖS Software Engineering Internship**  
+  Contributed to real product development in a fast-moving startup environment, working on testing, debugging, and product quality while building experience in the kind of systems that support smarter and more reliable software.
+  
 - **AI Market Intelligence Dashboard**  
-  Built a market research dashboard that turns natural language queries into structured competitor, pricing, sentiment, and trend insights.
+  Built a dashboard that turns natural language market questions into structured insights on competitors, pricing, sentiment, and trends, combining product thinking with AI-driven analysis.
+  
 - **Verilog CPU Components and ALU Design**  
-  Built core processor components in Verilog, including multiplexers, full adders, a 32-bit adder, and ALU logic.
-- **Ellostros Internship**  
-  Worked on software QA and testing, helping identify issues, improve product reliability, and contribute to real-world development workflows.
+  Developed core processor building blocks in Verilog, including multiplexers, a 32-bit adder, and ALU modules, to strengthen my foundation in digital design and computer architecture.
 
-I like projects that feel practical, polished, and technically solid.
+I enjoy building things that are useful, polished, and technically grounded, especially where AI meets real products and systems.
 
-## Tech I work with
+## Tech Stack
 `Java` `Python` `JavaScript` `React` `Verilog` `Git` `SQL`
 
-## What I'm looking for
-I'm currently building projects and gaining experience in software engineering, AI, and hardware-oriented systems, and I’m always excited by opportunities where I can learn fast and contribute meaningfully.
+## Currently
+Building projects, growing as an engineer, and looking for opportunities in software, AI, and hardware-related work.
