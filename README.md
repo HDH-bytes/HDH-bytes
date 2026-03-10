@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Hammad Hassan
 
-<!--
-**HDH-bytes/HDH-bytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Bachelor of Engineering Science student at Western University who enjoys building across software, AI, and hardware.
 
-Here are some ideas to get you started:
+Right now, I’m especially interested in:
+- AI and intelligent systems
+- full-stack and product-focused software
+- digital design, computer architecture, and low-level systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A few things I’m proud of:
+- **AI Market Intelligence Dashboard**  
+  Built a market research dashboard that turns natural language queries into structured competitor, pricing, sentiment, and trend insights.
+- **Verilog CPU Components and ALU Design**  
+  Built core processor components in Verilog, including multiplexers, full adders, a 32-bit adder, and ALU logic.
+- **Ellostros Internship**  
+  Worked on software QA and testing, helping identify issues, improve product reliability, and contribute to real-world development workflows.
+
+I like projects that feel practical, polished, and technically solid.
+
+## Tech I work with
+`Java` `Python` `JavaScript` `React` `Verilog` `Git` `SQL`
+
+## What I'm looking for
+I'm currently building projects and gaining experience in software engineering, AI, and hardware-oriented systems, and I’m always excited by opportunities where I can learn fast and contribute meaningfully.
