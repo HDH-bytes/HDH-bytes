@@ -3,7 +3,7 @@
 I'm a Software Engineering student at Western University with a strong interest in AI, software, and hardware systems.
 
 Some highlights of my work:
-- **ELLOSTRÖS Software Engineering Internship**  
+- **ELLUSTRÖS Software Engineering Internship**  
   Contributed to real product development in a fast-moving startup environment, working on testing, debugging, and product quality while building experience in the kind of systems that support smarter and more reliable software.
   
 - **AI Market Intelligence Dashboard**  
