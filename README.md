@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Hammad H.
 
-I'm a Bachelor of Engineering Science student at Western University with a strong interest in AI, software, and hardware systems.
+I'm a Bachelor of Engineering Science student at the University of Western Ontario with a strong interest in AI, software, and hardware systems.
 
 Some highlights of my work:
 - **ELLUSTRÖS Software Engineering Internship**  
